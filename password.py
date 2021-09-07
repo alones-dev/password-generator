@@ -27,8 +27,6 @@ def generate_password(amount):
 
     return strAlt
 
-print(generate_password(32))
-
 
 #     /\ | _ ._  _  _
 #    /--\|(_)| |(/__>
